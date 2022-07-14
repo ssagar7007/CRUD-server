@@ -1,1 +1,1 @@
-web (Free): npm run start (1)
+web  npm start
